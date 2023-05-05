@@ -20,7 +20,7 @@ class Line():
 coor1 = (3,2)
 coor2 = (8,10)
 
-my_line2 = Line(coor1,coor2)
+my_line3 = Line(coor1,coor2)
 
-print(my_line2.distance())
-print(my_line2.slope())
+print(my_line3.distance())
+print(my_line3.slope())
