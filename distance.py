@@ -23,4 +23,4 @@ coor2 = (8,10)
 my_line_4= Line(coor1,coor2)
 
 print(my_line_4.distance())
-print(my_line_4.slope())
+print(my_line_4c.slope())
